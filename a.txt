@@ -1,0 +1,9 @@
+git init - working directory
+
+git add <파일명> - staging area
+
+git commit -m '메세지' - commits (버전)
+
+git status - working directory 조회
+
+git log - commits 조회
